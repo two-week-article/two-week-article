@@ -5,11 +5,10 @@ _큰 주제를 가지고 2주 동안 관심있는 소주제의 article을 작성
 ## Contributors
 <hr/>
 
-_첫 글을 작성하면 contributors로 추가 됩니다._
+_첫 글을 작성하면 [contributors](https://github.com/two-week-article/two-week-article/graphs/contributors)로 추가 됩니다._
 
-<a href="https://github.com/two-week-article/two-week-article/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=two-week-article/two-week-article" />
-</a>
+[![all-contributors](https://contrib.rocks/image?repo=two-week-article/two-week-article&columns=16)](https://github.com/two-week-article/two-week-article/graphs/contributors)
+<sub> —— Made with [contrib.rocks](https://contrib.rocks)</sub>
 
 <br/>
 <br/>
